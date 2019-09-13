@@ -1,0 +1,139 @@
+% DND 5e LaTeX Style File
+% Created by Evan Bergeron
+% Modified by Christopher Liu December 2015
+% Modified by Yannic Meyer Feb 2016
+
+\ProvidesPackage{coc}[2019/07/18 v0.7.1 Template for DnD 5e material]
+
+%
+% Prerequisite Packages
+%
+
+\PassOptionsToPackage{table}{xcolor} % Helps prevent option clash with other packages that include xcolor
+
+\RequirePackage{array}
+\RequirePackage{calc}
+\RequirePackage{colortbl}
+\RequirePackage{enumitem}
+\RequirePackage{etoolbox}
+\RequirePackage{geometry}
+\RequirePackage{hang}
+\RequirePackage{ifluatex}
+\RequirePackage{keycommand}
+\RequirePackage[autolanguage]{numprint}
+\RequirePackage{tabularx}
+\RequirePackage[breakable,skins,xparse]{tcolorbox}
+\RequirePackage{tikz}
+\RequirePackage{xcolor}
+\RequirePackage{xkeyval}
+\RequirePackage{xparse}
+
+\ifluatex
+  \RequirePackage{luacolor}
+\fi
+
+
+% \coc@deprecate{<command or environment>}{<version>}[<suggestion>]
+\DeclareDocumentCommand{\coc@deprecate}{m m o}{%
+  \PackageWarning{coc}{#1 is deprecated and will be removed in version #2.\IfNoValueF{#3}{ #3}}
+}
+
+%
+% Options
+%
+\newtoggle{bool-bg}
+\newtoggle{bool-footer-scroll}
+\DeclareOptionX{bg}[full]{%
+  % This macro call looks complicated, but simply sets up a case environment
+  % to process choices. Refer to the xkeyval documentation for details.
+  \XKV@cc*+[\val\index]{#1}{full,none,print}{%
+    \ifcase\index\relax
+    % full
+    \toggletrue{bool-bg}
+    \toggletrue{bool-footer-scroll}
+    \or
+    % none
+    \togglefalse{bool-bg}
+    \togglefalse{bool-footer-scroll}
+    \or
+    % print
+    \togglefalse{bool-bg}
+    \toggletrue{bool-footer-scroll}
+    \fi
+  }{%
+    \PackageWarning{coc}{\val\ is not a valid choice for bg and was ignored}
+  }
+}
+
+% Legacy bg option variants.
+\DeclareOptionX{bg-full}{%
+  \coc@deprecate{bg-full}{0.8}[Use bg=full instead.]
+  \toggletrue{bool-bg}
+  \toggletrue{bool-footer-scroll}
+}
+\DeclareOptionX{bg-none}{%
+  \coc@deprecate{bg-none}{0.8}[Use bg=none instead.]
+  \togglefalse{bool-bg}
+  \togglefalse{bool-footer-scroll}
+}
+\DeclareOptionX{bg-print}{%
+  \coc@deprecate{bg-print}{0.8}[Use bg=print instead.]
+  \togglefalse{bool-bg}
+  \toggletrue{bool-footer-scroll}
+}
+
+% Toggle multitoc.
+\newtoggle{multitoc}
+\settoggle{multitoc}{true}
+\DeclareOptionX{nomultitoc}{\togglefalse{multitoc}}
+
+% Adds boolean `layout` package option and \ifpkglayout if command.
+\define@boolkey{coc.sty}[pkg]{layout}[true]{}
+
+% Default Settings
+\ExecuteOptionsX{bg=full, layout=true}
+\ProcessOptionsX\relax
+
+\ifpkglayout
+
+% Set page geometry.
+\geometry{%
+  left=1.02in,   % Left and right margins
+  right=.86in,
+  top=1.02in,       % Top of text area to top of page
+  bottom=1.18in,     % Bottom of text area to bottom of page
+  footskip=.32in,  % Bottom of text area to bottom of footer text
+  columnsep=.35in, % Space between columns
+}
+
+% Set paragraph and line spacing
+\setlength{\parindent}{1em}
+
+%
+% Style Parameters
+%
+
+% Customize itemize environment.
+\setlist{leftmargin=1em}
+\setitemize{noitemsep,topsep=0.5ex}
+\renewcommand{\labelitemi}{\raisebox{0.25ex}{\tiny{\( \bullet \)}}}
+
+\fi % \ifpkglayout
+
+% Either hilariously, or infuriatingly, the \ifcommandkey
+% implementation is buggy. Here is a re-implementation
+% from tex.stackexchange.
+\begingroup
+  \makeatletter
+  \catcode`\/=8 %
+  \@firstofone
+    {
+      \endgroup
+      \renewcommand{\ifcommandkey}[1]{%
+        \csname @\expandafter \expandafter \expandafter
+        \expandafter \expandafter \expandafter  \expandafter
+        \kcmd@nbk \commandkey {#1}//{first}{second}//oftwo\endcsname
+      }
+  }
+
+\RequirePackage{lib/cocheader}    % fancy headers and footers
