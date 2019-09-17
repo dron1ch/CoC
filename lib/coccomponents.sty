@@ -1,0 +1,41 @@
+\usepackage{tcolorbox}
+
+\newenvironment{nscenter}
+ {\parskip=1em\par\nopagebreak\centering}
+ {\par\noindent\ignorespacesafterend}
+
+% \newfontfamily\headingfont[]{Oswald-Regular.ttf}
+% \newfontfamily\smallheadingfont[]{NotoSerif}
+% \setmainfont[]{Oswald-Regular.ttf}
+
+% \newcommand\example[1]{\textcolor{CoCExample}{\it{Пример: #1}}}
+\newcommand{\example}[1]{{\leavevmode\color{CoCExample}\it{Пример: #1}}}
+\newtcolorbox{cocpaperbox}[2][]{colback=CoCPaperBox, boxrule=0pt, frame hidden, width=76mm, grow to left by=4mm, grow to right by=4mm}
+\newcommand\cocpaperboxtitle[1]{{\setmainfont[]{Oswald-Regular.ttf}\begin{nscenter}\Large\textcolor{RedCthulhu}{\MakeUppercase{#1}} \end{nscenter}}}
+
+% \begin{document}
+% \noindent
+% \begin{tcboxedraster}[raster columns = 3, raster equal height, enhanced, frame hidden,
+%     segmentation hidden, interior hidden, fontlower=\centering\color{white}\Huge\bfseries]{
+%     enhanced, spread inwards, spread outwards, colback=blue!25,
+%     frame hidden, boxrule=0pt, arc=0pt, left=20mm, right=20mm}
+%     \begin{tcolorbox}
+%       \includegraphics[width=\textwidth]{example-image-duck}
+%       \tcblower
+%       Some text
+%     \end{tcolorbox}
+%     \begin{tcolorbox}
+%       \includegraphics[width=\textwidth]{example-image-duck}
+%       \tcblower
+%       Some text
+%     \end{tcolorbox}
+%     \begin{tcolorbox}
+%       \includegraphics[width=\textwidth]{example-image-duck}
+%       \tcblower
+%       Some text
+%     \end{tcolorbox}
+% \end{tcboxedraster}
+% \medskip
+
+% \blindduck
+% \end{document}

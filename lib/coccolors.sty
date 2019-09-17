@@ -1,0 +1,15 @@
+\RequirePackage{color}
+
+\definecolor{CoCPaperBox}{HTML}{E3DDD1}
+\definecolor{CoCExample}{HTML}{573B0F}
+\definecolor{RedCthulhu}{RGB}{138, 5, 9}
+\definecolor{TableHeading}{HTML}{4C310A}
+\definecolor{TableRow}{HTML}{D2C8BB}
+\colorlet{themecolor}{CoCPaperBox}
+
+\newcommand{\setthemecolor}[1][themecolor]{%
+  \colorlet{themecolor}{#1}
+  \colorlet{commentboxcolor}{#1}
+  \colorlet{paperboxcolor}{#1}
+  \colorlet{tablecolor}{#1}
+}
