@@ -1,4 +1,4 @@
-\usepackage{tcolorbox}
+\usepackage[breakable]{tcolorbox}
 
 \newenvironment{nscenter}
  {\parskip=1em\par\nopagebreak\centering}
@@ -10,7 +10,8 @@
 
 % \newcommand\example[1]{\textcolor{CoCExample}{\it{Пример: #1}}}
 \newcommand{\example}[1]{{\leavevmode\color{CoCExample}\it{Пример: #1}}}
-\newtcolorbox{cocpaperbox}[2][]{colback=CoCPaperBox, boxrule=0pt, frame hidden, width=76mm, grow to left by=4mm, grow to right by=4mm}
+\newtcolorbox{cocpaperbox}[2][]{colback=CoCPaperBox, boxrule=0pt, frame hidden, width=76mm, grow to left by=4mm, grow to right by=4mm, breakable}
+\newtcolorbox{fullcocpaperbox}[2][]{colback=CoCPaperBox, boxrule=0pt, frame hidden, width=160mm, grow to left by=4mm, grow to right by=4mm, float*}
 \newcommand\cocpaperboxtitle[1]{{\setmainfont[]{Oswald-Regular.ttf}\begin{nscenter}\Large\textcolor{RedCthulhu}{\MakeUppercase{#1}} \end{nscenter}}}
 
 % \begin{document}
