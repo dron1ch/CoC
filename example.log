@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.9.5)  29 SEP 2019 21:58
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.9.5)  5 OCT 2019 23:14
  restricted system commands enabled.
 **example.tex
 (./example.tex
@@ -53,7 +53,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 Inserting `luaotfload.aux.set_xheight' at position 4 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 5 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.149 seconds
+luaotfload | main : initialization completed in 0.141 seconds
 (./cocbook.cls
 Document Class: cocbook 2019/09/10 v0.1.0 Template for COC 7e material
 (/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -1597,7 +1597,7 @@ g;"
 (fontspec)             <->"NotoSerif/BI:mode=node;script=latn;language=DFLT;+tli
 g;+smcp;"
 
-LaTeX Info: Redefining \rmfamily on input line 25.
+LaTeX Info: Redefining \rmfamily on input line 22.
 
 
 LaTeX Warning: Unused global option(s):
@@ -1606,26 +1606,26 @@ LaTeX Warning: Unused global option(s):
 (./example.aux)
 \openout1 = example.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 62.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    ... okay on input line 62.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1713,80 +1713,80 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 69.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 69.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 69.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 69.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 69.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 69.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 69.
-LaTeX Font Info:    Redeclaring math accent \check on input line 69.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 69.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 69.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 69.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 69.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 69.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 62.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 62.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 62.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 62.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 62.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 62.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 62.
+LaTeX Font Info:    Redeclaring math accent \check on input line 62.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 62.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 62.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 62.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 62.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 69.
+(Font)              `operators' in the math version `normal' on input line 62.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/NotoSerif(3)/m/n on input line 69.
+(Font)                  OT1/cmr/m/n --> TU/NotoSerif(3)/m/n on input line 62.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 69.
+(Font)              `operators' in the math version `bold' on input line 62.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(3)/m/n on input line 69.
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(3)/m/n on input line 62.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/NotoSerif(3)/m/n --> TU/NotoSerif(3)/m/n on input lin
-e 69.
+e 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/NotoSerif(3)/m/it on input line 69.
+(Font)                  OT1/cmr/m/it --> TU/NotoSerif(3)/m/it on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(3)/bx/n on input line 69.
+(Font)                  OT1/cmr/bx/n --> TU/NotoSerif(3)/bx/n on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/NotoSans(0)/m/n on input line 69.
+(Font)                  OT1/cmss/m/n --> TU/NotoSans(0)/m/n on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/NotoSansMono(0)/m/n on input line 69
+(Font)                  OT1/cmtt/m/n --> TU/NotoSansMono(0)/m/n on input line 62
 .
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/NotoSerif(3)/m/n --> TU/NotoSerif(3)/bx/n on input li
-ne 69.
+ne 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/NotoSerif(3)/bx/it on input line 69
+(Font)                  OT1/cmr/bx/it --> TU/NotoSerif(3)/bx/it on input line 62
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/NotoSans(0)/bx/n on input line 69.
+(Font)                  OT1/cmss/bx/n --> TU/NotoSans(0)/bx/n on input line 62.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/NotoSansMono(0)/bx/n on input line 6
-9.
+2.
 
 
 LaTeX Font Warning: Font shape `TU/Oswald-Regular.ttf(0)/bx/n' undefined
-(Font)              using `TU/Oswald-Regular.ttf(0)/m/n' instead on input line 7
-2.
+(Font)              using `TU/Oswald-Regular.ttf(0)/m/n' instead on input line 6
+5.
 
 <img/paper.jpg, id=4, 374.8404pt x 608.7543pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 100.
+Package luatex.def Info: img/paper.jpg  used on input line 93.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 100.
+Package luatex.def Info: img/paper.jpg  used on input line 93.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 100.
+Package luatex.def Info: img/paper.jpg  used on input line 93.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1797,7 +1797,7 @@ This may cause the page layout to be inconsistent, however.
 <img/footerscroll.pdf, id=5, 596.2275pt x 42.15584pt>
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 100.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 93.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [1
 
@@ -1805,59 +1805,59 @@ Package luatex.def Info: img/footerscroll.pdf  used on input line 100.
 er.jpg><./img/footerscroll.pdf>]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 122.
+Package luatex.def Info: img/paper.jpg  used on input line 115.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 122.
+Package luatex.def Info: img/paper.jpg  used on input line 115.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 122.
+Package luatex.def Info: img/paper.jpg  used on input line 115.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 122.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 115.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
  [2]
-Underfull \hbox (badness 4291) in paragraph at lines 127--129
+Underfull \hbox (badness 4291) in paragraph at lines 120--122
 \TU/NotoSerif(3)/m/n/8 Для то-го, что-бы иг-рать в \TU/NotoS
 erif(3)/m/it/8 Зов Ктул-ху\TU/NotoSerif(3)/m/n/8 , вам необ-х
 о-
  []
 
 
-Underfull \hbox (badness 7168) in paragraph at lines 127--129
+Underfull \hbox (badness 7168) in paragraph at lines 120--122
 \TU/NotoSerif(3)/m/n/8 ди-мо со-здать пер-со-на-жа - ис-
 сле-до-ва-те-ля. Со-зда-ние
  []
 
 
-Underfull \hbox (badness 4543) in paragraph at lines 127--129
+Underfull \hbox (badness 4543) in paragraph at lines 120--122
 \TU/NotoSerif(3)/m/n/8 пер-со-на-жа мож-но пред-ста-ви
 ть в ви-де фор-маль-ных
  []
 
 
-Underfull \hbox (badness 3449) in paragraph at lines 127--129
+Underfull \hbox (badness 3449) in paragraph at lines 120--122
 \TU/NotoSerif(3)/m/n/8 ша-гов, они опи-са-ны ни-же. Иг-р
 о-ки за-пи-сы-ва-ют ин-
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 127--129
+Underfull \hbox (badness 2173) in paragraph at lines 120--122
 \TU/NotoSerif(3)/m/n/8 фор-ма-цию о сво-их пер-со-на-жа
 х на спе-ци-аль-ных ли-
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 127--129
+Underfull \hbox (badness 1231) in paragraph at lines 120--122
 \TU/NotoSerif(3)/m/n/8 стах пер-со-на-жей. Эти ли-сты с
 о-дер-жат всю ин-фор-ма-
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 127--129
+Underfull \hbox (badness 1789) in paragraph at lines 120--122
 \TU/NotoSerif(3)/m/n/8 https://www.chaosium.com/cthulhu-character-sheets. Пр
 ед-
  []
@@ -1865,46 +1865,46 @@ Underfull \hbox (badness 1789) in paragraph at lines 127--129
 <img/cthulhu.jpg, id=18, 362.55853pt x 369.08458pt>
 File: img/cthulhu.jpg Graphic file (type jpg)
 <use img/cthulhu.jpg>
-Package luatex.def Info: img/cthulhu.jpg  used on input line 131.
+Package luatex.def Info: img/cthulhu.jpg  used on input line 124.
 (luatex.def)             Requested size: 229.45691pt x 233.58891pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 |\TU/NotoSerif(2)/bx/n/14 ШАГ ПЕР-ВЫЙ: ХА-РАК-ТЕ-РИ-
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 150.
+(Font)              <6> on input line 137.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 150.
+(Font)              <5> on input line 137.
 
-Underfull \hbox (badness 6559) in paragraph at lines 151--152
+Underfull \hbox (badness 6559) in paragraph at lines 138--139
 []\TU/NotoSerif(3)/m/n/8 Те-ло-сло-же-ние (Constitution, CON, ТЛ
 С) опре-де-ля-ет
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 |\TU/NotoSerif(3)/bx/n/12 Половинные и Пятые Значения
  []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 165.
+Package luatex.def Info: img/paper.jpg  used on input line 152.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 165.
+Package luatex.def Info: img/paper.jpg  used on input line 152.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 165.
+Package luatex.def Info: img/paper.jpg  used on input line 152.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 165.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 152.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [3<./img/cthulhu.jpg>]
-Underfull \hbox (badness 1762) in paragraph at lines 185--186
+Underfull \hbox (badness 1762) in paragraph at lines 172--173
 \TU/NotoSerif(3)/bx/n/8 Оч-ки рас-суд-ка (РАС): \TU/NotoSerif(3)
 /m/n/8 из-на-чаль-но рав-но по-ка-за-те-лю
  []
@@ -1912,7 +1912,7 @@ Underfull \hbox (badness 1762) in paragraph at lines 185--186
 <img/top.png, id=23, 600.2425pt x 86.3225pt>
 File: img/top.png Graphic file (type png)
 <use img/top.png>
-Package luatex.def Info: img/top.png  used on input line 190.
+Package luatex.def Info: img/top.png  used on input line 177.
 (luatex.def)             Requested size: 210.55042pt x 30.27917pt.
 luaotfload | aux : font no 91 (nil) does not define feature smcp for script latn
  with language dflt
@@ -1929,392 +1929,404 @@ Package fontspec Info: Font family 'Oswald-Regular.ttf(1)' created for font
 FLT;+tlig;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-LaTeX Info: Redefining \rmfamily on input line 191.
+LaTeX Info: Redefining \rmfamily on input line 178.
 <img/bottom.png, id=24, 610.28pt x 90.3375pt>
 File: img/bottom.png Graphic file (type png)
 <use img/bottom.png>
-Package luatex.def Info: img/bottom.png  used on input line 203.
+Package luatex.def Info: img/bottom.png  used on input line 190.
 (luatex.def)             Requested size: 210.55042pt x 31.16646pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--204
+Underfull \hbox (badness 10000) in paragraph at lines 189--191
 [][]
  []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 206.
+Package luatex.def Info: img/paper.jpg  used on input line 193.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 206.
+Package luatex.def Info: img/paper.jpg  used on input line 193.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 206.
+Package luatex.def Info: img/paper.jpg  used on input line 193.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 206.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 193.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [4<./img/top.png><./img/bottom.png>]
-Underfull \hbox (badness 2401) in paragraph at lines 217--218
+Underfull \hbox (badness 2401) in paragraph at lines 204--205
 []\TU/NotoSerif(3)/m/n/8 Ли-бо вы-бе-ри-те ва-шу про-фес-
 сию из при-ве-ден-но-го
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 228--229
+Underfull \hbox (badness 1178) in paragraph at lines 215--216
 \TU/NotoSerif(3)/m/it/8 50%, Род-ной Язык (Ан-глий-ский) 60
 %, Пси-хо-ло-гия 40%.
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 232--233
+Underfull \hbox (badness 1314) in paragraph at lines 219--220
 []\TU/NotoSerif(3)/m/n/8 По-сле рас-пре-де-ле-ния оч-ко
 в по про-фес-си-о-наль-ным
  []
 
+
+Underfull \hbox (badness 1789) in paragraph at lines 225--228
+\TU/NotoSerif(3)/m/it/8 При-мер: Ро-ма вы-би-ра-ет в ка-
+че-стве ро-да де-я-тель-но-
+ []
+
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 241.
+Package luatex.def Info: img/paper.jpg  used on input line 228.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 241.
+Package luatex.def Info: img/paper.jpg  used on input line 228.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 241.
+Package luatex.def Info: img/paper.jpg  used on input line 228.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 241.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 228.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [5]
 File: img/top.png Graphic file (type png)
 <use img/top.png>
-Package luatex.def Info: img/top.png  used on input line 244.
+Package luatex.def Info: img/top.png  used on input line 231.
 (luatex.def)             Requested size: 210.55042pt x 30.27917pt.
-LaTeX Info: Redefining \rmfamily on input line 245.
+LaTeX Info: Redefining \rmfamily on input line 232.
 
-Underfull \hbox (badness 1092) in paragraph at lines 245--247
+Underfull \hbox (badness 1092) in paragraph at lines 232--234
  \TU/NotoSerif(3)/bx/n/8 АН-ТИ-КВАР\TU/NotoSerif(3)/m/n/8 ---Оцен
 ка, Ис-кус-ство/Ре-мес-ло (Лю-бое),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
-[]\TU/NotoSerif(3)/bx/n/8 ПИ-СА-ТЕЛЬ\TU/NotoSerif(3)/m/n/8 ---Иску
-сство (Ли-те-ра-ту-ра), Ис-то-рия,
- []
-
-
-Underfull \hbox (badness 1400) in paragraph at lines 248--249
-\TU/NotoSerif(3)/m/n/8 Ис-поль-зо-ва-ние Биб-лио-тек, З
-на-ние При-ро-ды или
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 248--249
-\TU/NotoSerif(3)/m/n/8 Ок-культ-ные Зна-ния, Ино-стран-
-ный Язык, Род-ной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 []\TU/NotoSerif(3)/bx/n/8 ВОЛЬ-НЫЙ ХУ-ДОЖ-НИК\TU/NotoSerif(3)/m/
 n/8 ---Искусство/Ремесло (Лю-
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 252--253
+Underfull \hbox (badness 1286) in paragraph at lines 237--238
+\TU/NotoSerif(3)/m/n/8 ва-ние, За-пу-ги-ва-ние или Убеж-
+де-ние), лю-бые три
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+[]\TU/NotoSerif(3)/bx/n/8 ДОК-ТОР МЕ-ДИ-ЦИ-НЫ\TU/NotoSerif(3)/m/n
+/8 ---Первая По-мощь, Язык
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+\TU/NotoSerif(3)/m/n/8 (Иной: Ла-тынь), Ме-ди-ци-на, Пси-
+хо-ло-гия, Есте-
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 239--240
 \TU/NotoSerif(3)/m/n/8 ствен-ные На-у-ки (Био-ло-гия), Е
 сте-ствен-ные На-у-ки
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 5374) in paragraph at lines 239--240
+\TU/NotoSerif(3)/m/n/8 (Фар-ма-ко-ло-гия), лю-бые два др
+у-гих на-вы-ка как
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 []\TU/NotoSerif(3)/bx/n/8 ЖУР-НА-ЛИСТ\TU/NotoSerif(3)/m/n/8 ---Иск
 усство/Ремесло (Фо-то-гра-фия),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 \TU/NotoSerif(3)/m/n/8 За-пу-ги-ва-ние или Убеж-де-ние),
  Пси-хо-ло-гия, два
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 []\TU/NotoSerif(3)/bx/n/8 СЛЕ-ДО-ВА-ТЕЛЬ\TU/NotoSerif(3)/m/n/8 ---
 Искусство/Ремесло (Ли-це-дей-ство)
  []
 
 File: img/bottom.png Graphic file (type png)
 <use img/bottom.png>
-Package luatex.def Info: img/bottom.png  used on input line 261.
+Package luatex.def Info: img/bottom.png  used on input line 248.
 (luatex.def)             Requested size: 210.55042pt x 31.16646pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--262
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
 []\TU/NotoSerif(3)/bx/n/8 ПРО-ФЕС-СОР\TU/NotoSerif(3)/m/n/8 ---Исп
-ользование Биб-лио-тек,
+ользование Биб-лио-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--262
-\TU/NotoSerif(3)/m/n/8 Ино-стран-ный Язык, Род-ной Язы
-к, Пси-
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
+\TU/NotoSerif(3)/m/n/8 тек, Язык (Иной), Род-ной Язык, П
+си-хо-ло-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--262
-\TU/NotoSerif(3)/m/n/8 хо-ло-гия, че-ты-ре лю-бых дру-г
-их на-вы-ка
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
+\TU/NotoSerif(3)/m/n/8 гия, че-ты-ре лю-бых дру-гих на-
+вы-ка как
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--262
-\TU/NotoSerif(3)/m/n/8 как на-уч-ные или лич-ные спе-ц
-и-а-ли-за-ции.
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
+\TU/NotoSerif(3)/m/n/8 на-уч-ные или лич-ные спе-ци-а-л
+и-за-ции.
  []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 269.
+Package luatex.def Info: img/paper.jpg  used on input line 256.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 269.
+Package luatex.def Info: img/paper.jpg  used on input line 256.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 269.
+Package luatex.def Info: img/paper.jpg  used on input line 256.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 269.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 256.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
 |\TU/NotoSerif(2)/bx/n/14 ШАГ ПЯ-ТЫЙ: ПО-СЛЕД-НИЕ
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 300--301
+Underfull \hbox (badness 1199) in paragraph at lines 287--288
 \TU/NotoSerif(3)/m/n/8 сле-до-ва-те-ля та-кую необ-хо-д
 и-мость - вы мо-же-те ``про-
  []
 
 File: img/top.png Graphic file (type png)
 <use img/top.png>
-Package luatex.def Info: img/top.png  used on input line 304.
+Package luatex.def Info: img/top.png  used on input line 291.
 (luatex.def)             Requested size: 478.00632pt x 68.7459pt.
-LaTeX Info: Redefining \rmfamily on input line 305.
+LaTeX Info: Redefining \rmfamily on input line 292.
 File: img/bottom.png Graphic file (type png)
 <use img/bottom.png>
-Package luatex.def Info: img/bottom.png  used on input line 307.
+Package luatex.def Info: img/bottom.png  used on input line 294.
 (luatex.def)             Requested size: 478.00632pt x 70.7607pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--308
+Underfull \hbox (badness 10000) in paragraph at lines 292--295
  \TU/NotoSerif(3)/m/n/8 (худ-ший) ПРО-ВАЛ --- ОБЫЧ-НЫЙ УС
 ПЕХ --- ТЯ-ЖЕ-ЛЫЙ УСПЕХ --- ЭКС-ТРЕ-МАЛЬ-НЫЙ УС
 ПЕХ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--315
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
 |\TU/NotoSerif(2)/bx/n/14 ПРО-ТИ-ВО-СТО-Я-ЩИЕ БРОС-КИ
  []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 318.
+Package luatex.def Info: img/paper.jpg  used on input line 305.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 318.
+Package luatex.def Info: img/paper.jpg  used on input line 305.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 318.
+Package luatex.def Info: img/paper.jpg  used on input line 305.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 318.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 305.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [7]
-Underfull \hbox (badness 1194) in paragraph at lines 323--324
+Underfull \hbox (badness 1194) in paragraph at lines 310--311
 \TU/NotoSerif(3)/m/n/8 ству-ют по-доб-но уве-ли-чен-но
 й слож-но-сти и мо-гут ис-
  []
 
 
-Underfull \hbox (badness 1859) in paragraph at lines 338--339
+Underfull \hbox (badness 1859) in paragraph at lines 325--326
 \TU/NotoSerif(3)/bx/n/8 За каж-дый ку-бик по-ме-хи: \TU/Noto
 Serif(3)/m/n/8 кинь-те до-пол-ни-тель-ный
  []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 339.
+Package luatex.def Info: img/paper.jpg  used on input line 326.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 339.
+Package luatex.def Info: img/paper.jpg  used on input line 326.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 339.
+Package luatex.def Info: img/paper.jpg  used on input line 326.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 339.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 326.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 340--349
+Underfull \hbox (badness 10000) in paragraph at lines 327--336
 \TU/NotoSerif(3)/m/it/8 При-мер: из-за че-ре-ды неудач-
 ных сте-че-ний об-сто-я-
  []
 
 
-Underfull \hbox (badness 6173) in paragraph at lines 340--349
+Underfull \hbox (badness 6173) in paragraph at lines 327--336
 \TU/NotoSerif(3)/m/it/8 тельств, два ис-сле-до-ва-те-ля 
 - Фе-ликс и Гар-ри-сон -
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 340--349
+Underfull \hbox (badness 5388) in paragraph at lines 327--336
 \TU/NotoSerif(3)/m/it/8 что-бы они про-шли Ор-да-лию Бо-
 ли, в хо-де ко-то-рой
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 349--349
+Underfull \hbox (badness 1400) in paragraph at lines 336--336
 \TU/NotoSerif(3)/m/it/8 на ку-би-ках с де-сят-ка-ми и 1 н
 а ку-би-ке с еди-ни-ца-ми.
  []
 
-File: img/top.png Graphic file (type png)
-<use img/top.png>
-Package luatex.def Info: img/top.png  used on input line 364.
-(luatex.def)             Requested size: 478.00632pt x 68.7459pt.
-LaTeX Info: Redefining \rmfamily on input line 365.
-File: img/bottom.png Graphic file (type png)
-<use img/bottom.png>
-Package luatex.def Info: img/bottom.png  used on input line 400.
-(luatex.def)             Requested size: 478.00632pt x 70.7607pt.
 
-Underfull \hbox (badness 2310) in paragraph at lines 361--404
+Underfull \hbox (badness 2310) in paragraph at lines 348--349
 \TU/NotoSerif(3)/m/n/8 Ко-гда ис-сле-до-ва-тель стал-к
 и-ва-ет-ся с необъ-яс-ни-мы-ми
  []
 
 File: img/top.png Graphic file (type png)
 <use img/top.png>
-Package luatex.def Info: img/top.png  used on input line 410.
+Package luatex.def Info: img/top.png  used on input line 351.
 (luatex.def)             Requested size: 478.00632pt x 68.7459pt.
-LaTeX Info: Redefining \rmfamily on input line 411.
+LaTeX Info: Redefining \rmfamily on input line 352.
+File: img/bottom.png Graphic file (type png)
+<use img/bottom.png>
+Package luatex.def Info: img/bottom.png  used on input line 387.
+(luatex.def)             Requested size: 478.00632pt x 70.7607pt.
+File: img/top.png Graphic file (type png)
+<use img/top.png>
+Package luatex.def Info: img/top.png  used on input line 397.
+(luatex.def)             Requested size: 478.00632pt x 68.7459pt.
+LaTeX Info: Redefining \rmfamily on input line 398.
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 \TU/NotoSerif(3)/m/n/8 ис-пы-ты-ва-ет пси-хо-со-ма-ти-ч
 е-скую сле-по-ту, глу-хо-ту
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--422
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
 []\TU/NotoSerif(3)/bx/n/8 Па-ни-че-ское бег-ство: \TU/NotoSeri
 f(3)/m/n/8 ис-сле-до-ва-те-ля охва-ты-ва-ет
  []
 
 File: img/bottom.png Graphic file (type png)
 <use img/bottom.png>
-Package luatex.def Info: img/bottom.png  used on input line 427.
+Package luatex.def Info: img/bottom.png  used on input line 414.
 (luatex.def)             Requested size: 478.00632pt x 70.7607pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 431.
+Package luatex.def Info: img/paper.jpg  used on input line 418.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 431.
+Package luatex.def Info: img/paper.jpg  used on input line 418.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 431.
+Package luatex.def Info: img/paper.jpg  used on input line 418.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 431.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 418.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/top.png Graphic file (type png)
 <use img/top.png>
-Package luatex.def Info: img/top.png  used on input line 436.
+Package luatex.def Info: img/top.png  used on input line 423.
 (luatex.def)             Requested size: 478.00632pt x 68.7459pt.
-LaTeX Info: Redefining \rmfamily on input line 437.
+LaTeX Info: Redefining \rmfamily on input line 424.
 File: img/bottom.png Graphic file (type png)
 <use img/bottom.png>
-Package luatex.def Info: img/bottom.png  used on input line 452.
+Package luatex.def Info: img/bottom.png  used on input line 439.
 (luatex.def)             Requested size: 478.00632pt x 70.7607pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 458.
+Package luatex.def Info: img/paper.jpg  used on input line 445.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 458.
+Package luatex.def Info: img/paper.jpg  used on input line 445.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 458.
+Package luatex.def Info: img/paper.jpg  used on input line 445.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 458.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 445.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
  [10]
-Underfull \hbox (badness 5431) in paragraph at lines 462--463
+Underfull \hbox (badness 5431) in paragraph at lines 449--450
 \TU/NotoSerif(3)/m/it/8 При-мер: Пер-со-на-жу Лё-ши про-
 ти-во-сто-ит куль-тист,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
 []\TU/NotoSerif(3)/m/n/8 У ис-сле-до-ва-те-лей есть три 
 бо-е-вых на-вы-ка:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
 \TU/NotoSerif(3)/m/n/8 ”Бой ”Укло-не-ние”и и ”Ог-не-
 стрель-ное Ору-жие”. Два
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 466--467
+Underfull \hbox (badness 1648) in paragraph at lines 453--454
 \TU/NotoSerif(3)/m/n/8 из этих на-вы-ков со-сто-ят из н
 есколь-ких спе-ци-а-ли-за-
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 466--467
+Underfull \hbox (badness 2293) in paragraph at lines 453--454
 \TU/NotoSerif(3)/m/n/8 име-ет, то ка-кую, в мо-мент рас-
 пре-де-ле-ния оч-ков по
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 466--467
+Underfull \hbox (badness 1033) in paragraph at lines 453--454
 \TU/NotoSerif(3)/m/n/8 зо-ва-ние про-сто-го во-ору-же-н
 ия, вро-де но-жей и ду-бин,
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 472--473
+Underfull \hbox (badness 2443) in paragraph at lines 459--460
 \TU/NotoSerif(3)/m/n/8 ини-ци-и-ро-вать ата-ку про-тив 
 оп-по-нен-та. Кро-ме то-го,
  []
@@ -2324,241 +2336,726 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 499.
+Package luatex.def Info: img/paper.jpg  used on input line 486.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 499.
+Package luatex.def Info: img/paper.jpg  used on input line 486.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 499.
+Package luatex.def Info: img/paper.jpg  used on input line 486.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 499.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 486.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
  [11]
-Underfull \hbox (badness 2529) in paragraph at lines 499--500
+Underfull \hbox (badness 2529) in paragraph at lines 486--487
 []\TU/NotoSerif(3)/m/n/8 Ту-пое ору-жие на-но-сит мак-с
 и-маль-ный урон плюс
  []
 
 
-Underfull \hbox (badness 2894) in paragraph at lines 510--511
+Underfull \hbox (badness 2894) in paragraph at lines 497--498
 \TU/NotoSerif(3)/m/n/8 Стре-ля-ю-щий из ог-не-стрель-н
 о-го ору-жия ки-да-ет про-
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 518--519
+Underfull \hbox (badness 1824) in paragraph at lines 505--506
 \TU/NotoSerif(3)/m/n/8 мож-но увер-нуть-ся от пу-ли), н
 о мож-но ``бро-сить-ся в
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 518--519
+Underfull \hbox (badness 2181) in paragraph at lines 505--506
 \TU/NotoSerif(3)/m/n/8 укры-тие'', сде-лав бро-сок на У
 кло-не-ние. Ес-ли бро-сок
  []
 
 File: img/top.png Graphic file (type png)
 <use img/top.png>
-Package luatex.def Info: img/top.png  used on input line 527.
+Package luatex.def Info: img/top.png  used on input line 514.
 (luatex.def)             Requested size: 210.55042pt x 30.27917pt.
-LaTeX Info: Redefining \rmfamily on input line 528.
+LaTeX Info: Redefining \rmfamily on input line 515.
 File: img/bottom.png Graphic file (type png)
 <use img/bottom.png>
-Package luatex.def Info: img/bottom.png  used on input line 542.
+Package luatex.def Info: img/bottom.png  used on input line 529.
 (luatex.def)             Requested size: 210.55042pt x 31.16646pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 558.
+Package luatex.def Info: img/paper.jpg  used on input line 545.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 558.
+Package luatex.def Info: img/paper.jpg  used on input line 545.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 558.
+Package luatex.def Info: img/paper.jpg  used on input line 545.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 558.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 545.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [12]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 591.
+Package luatex.def Info: img/paper.jpg  used on input line 578.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 591.
+Package luatex.def Info: img/paper.jpg  used on input line 578.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 591.
+Package luatex.def Info: img/paper.jpg  used on input line 578.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 591.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 578.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
  [13]
-Underfull \hbox (badness 1371) in paragraph at lines 594--595
+Underfull \hbox (badness 1371) in paragraph at lines 581--582
 \TU/NotoSerif(3)/m/n/8 Ча-сто Хра-ни-те-лю при-хо-дит-с
 я опре-де-лять ко-ли-че-ство
  []
 
 
-Underfull \hbox (badness 3849) in paragraph at lines 594--595
+Underfull \hbox (badness 3849) in paragraph at lines 581--582
 \TU/NotoSerif(3)/m/n/8 уро-на, ко-то-рое пер-со-на-жи п
 о-лу-ча-ют от раз-но-об-раз-
  []
 
 File: img/top.png Graphic file (type png)
 <use img/top.png>
-Package luatex.def Info: img/top.png  used on input line 597.
+Package luatex.def Info: img/top.png  used on input line 584.
 (luatex.def)             Requested size: 478.00632pt x 68.7459pt.
-LaTeX Info: Redefining \rmfamily on input line 598.
+LaTeX Info: Redefining \rmfamily on input line 585.
 
-Underfull \hbox (badness 3158) in paragraph at lines 608--608
+Underfull \hbox (badness 3158) in paragraph at lines 595--595
 \TU/NotoSerif(3)/m/n/8 кис-ло-та, на-хож-де-ние в за-ды
 м-лен-
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 608--608
+Underfull \hbox (badness 2269) in paragraph at lines 595--595
 \TU/NotoSerif(3)/m/n/8 ты-ва-ет-ся за каж-дые 10 фу-тов (0
 .3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 608--608
+Underfull \hbox (badness 10000) in paragraph at lines 595--595
 []|\TU/NotoSerif(3)/bx/n/8 Смер-тель-ная: \TU/NotoSerif(3)/m/n/8 С
 ред-не-ста-ти-сти-че-
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 608--608
+Underfull \hbox (badness 1622) in paragraph at lines 595--595
 \TU/NotoSerif(3)/m/n/8 разо-рвав-шей-ся гра-на-ты или 
 ди-на-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 608--608
+Underfull \hbox (badness 10000) in paragraph at lines 595--595
 []|\TU/NotoSerif(3)/bx/n/8 Тер-ми-наль-ная: \TU/NotoSerif(3)/m/n/8 
 Ве-ро-ят-на мо-мен-
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 608--608
+Underfull \hbox (badness 1622) in paragraph at lines 595--595
 \TU/NotoSerif(3)/m/n/8 разо-рвав-шей-ся гра-на-ты или 
 ди-на-
  []
 
 
-Overfull \hbox (7.0772pt too wide) in paragraph at lines 598--609
+Overfull \hbox (7.0772pt too wide) in paragraph at lines 585--596
  [] 
  []
 
 File: img/bottom.png Graphic file (type png)
 <use img/bottom.png>
-Package luatex.def Info: img/bottom.png  used on input line 614.
+Package luatex.def Info: img/bottom.png  used on input line 601.
 (luatex.def)             Requested size: 478.00632pt x 70.7607pt.
+File: img/top.png Graphic file (type png)
+<use img/top.png>
+Package luatex.def Info: img/top.png  used on input line 613.
+(luatex.def)             Requested size: 478.00632pt x 68.7459pt.
+LaTeX Info: Redefining \rmfamily on input line 614.
+
+Underfull \hbox (badness 6412) in paragraph at lines 616--617
+[]\TU/NotoSerif(3)/m/n/8 Боль-шин-ство на-вы-ков озна-ч
+а-ют
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 624--625
+\TU/NotoSerif(3)/m/n/8 но-го пред-ме-та, вклю-чая то, н
+а-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--627
+[]\TU/NotoSerif(3)/bx/n/8 Ар-хео-ло-гия: \TU/NotoSerif(3)/m/n/8 по
+з-во-ля-ет да-ти-ро-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--629
+\TU/NotoSerif(3)/m/n/8 со-зда-вать или ре-мон-ти-ро-ва
+ть
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 630--631
+\TU/NotoSerif(3)/m/n/8 его уме-ние со-блаз-нять, льсти
+ть
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 630--631
+\TU/NotoSerif(3)/m/n/8 или про-сто про-из-во-дить при-
+ят-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--633
+[]\TU/NotoSerif(3)/bx/n/8 Ска-ло-ла-за-ние: \TU/NotoSerif(3)/m/n/8 
+опре-де-ля-ет не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--633
+\TU/NotoSerif(3)/m/n/8 толь-ко спо-соб-ность ка-раб-ка
+ть-ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 639--640
+[]\TU/NotoSerif(3)/m/n/8 Бла-го-со-сто-я-ние 50-89: за-жи-
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 644--646
+\TU/NotoSerif(3)/m/it/8 При-мер: Ро-ма вы-би-ра-ет сво-е-
+му
+ []
+
+File: img/bottom.png Graphic file (type png)
+<use img/bottom.png>
+Package luatex.def Info: img/bottom.png  used on input line 651.
+(luatex.def)             Requested size: 478.00632pt x 70.7607pt.
+File: img/top.png Graphic file (type png)
+<use img/top.png>
+Package luatex.def Info: img/top.png  used on input line 655.
+(luatex.def)             Requested size: 478.00632pt x 68.7459pt.
+LaTeX Info: Redefining \rmfamily on input line 656.
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
+[]\TU/NotoSerif(3)/bx/n/8 Укло-не-ние: \TU/NotoSerif(3)/m/n/8 поз-
+во-ля-ет ис-сле-до-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
+\TU/NotoSerif(3)/m/n/8 ва-те-лю ин-стинк-тив-но из-бе-г
+ать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
+\TU/NotoSerif(3)/m/n/8 уда-ров, бро-шен-ных сна-ря-дов 
+и
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 658--659
+\TU/NotoSerif(3)/m/n/8 укло-нять-ся нель-зя. Луч-шее, ч
+то
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
+\TU/NotoSerif(3)/m/n/8 пы-тать-ся бро-сить-ся в укры-т
+ие.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
+\TU/NotoSerif(3)/m/n/8 Опре-де-ли-те стар-то-вое зна-ч
+е-ние,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
+[]\TU/NotoSerif(3)/bx/n/8 Во-жде-ние Ав-то-мо-би-ля: \TU/Noto
+Serif(3)/m/n/8 уме-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
+\TU/NotoSerif(3)/m/n/8 вер-шать стан-дарт-ные ма-нев-р
+ы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
+[]\TU/NotoSerif(3)/bx/n/8 Элек-три-ка: \TU/NotoSerif(3)/m/n/8 по-ч
+ин-ка и пе-ре-на-
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 662--663
+\TU/NotoSerif(3)/m/n/8 за-жи-га-ние, элек-три-че-ские м
+о-то-
+ []
+
+
+Underfull \hbox (badness 7631) in paragraph at lines 676--677
+\TU/NotoSerif(3)/m/n/8 вла-де-ет луч-ше все-го. Стар-то-
+вое
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 680--681
+\TU/NotoSerif(3)/m/n/8 доб-ная ин-фор-ма-ция при-сут-с
+тву-
+ []
+
+File: img/bottom.png Graphic file (type png)
+<use img/bottom.png>
+Package luatex.def Info: img/bottom.png  used on input line 682.
+(luatex.def)             Requested size: 478.00632pt x 70.7607pt.
+File: img/top.png Graphic file (type png)
+<use img/top.png>
+Package luatex.def Info: img/top.png  used on input line 686.
+(luatex.def)             Requested size: 478.00632pt x 68.7459pt.
+LaTeX Info: Redefining \rmfamily on input line 687.
+
+Underfull \hbox (badness 8170) in paragraph at lines 689--690
+\TU/NotoSerif(3)/m/n/8 доб-ная ин-фор-ма-ция при-сут-с
+тву-
+ []
+
+
+Underfull \hbox (badness 6859) in paragraph at lines 693--694
+[]\TU/NotoSerif(3)/bx/n/8 Сле-сар-ни-че-ство: \TU/NotoSerif(3)/m/
+n/8 уме-ние от-кры-
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 695--696
+[]\TU/NotoSerif(3)/bx/n/8 Ме-ха-ни-ка: \TU/NotoSerif(3)/m/n/8 от-в
+е-ча-ет за воз-мож-
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 697--698
+\TU/NotoSerif(3)/m/n/8 ти, то-гда до при-ме-не-ния Ме-д
+и-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+[]\TU/NotoSerif(3)/bx/n/8 При-ро-да: \TU/NotoSerif(3)/m/n/8 от-ра-
+жа-ет тра-ди-ци-он-
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 699--700
+\TU/NotoSerif(3)/m/n/8 на-блю-де-ния фер-ме-ров, ры-ба-
+ков,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+\TU/NotoSerif(3)/m/n/8 ти-фи-ци-ро-вать рас-те-ния, жи-
+вот-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+\TU/NotoSerif(3)/m/n/8 ку-ти-ро-ва-ния или об-суж-де-ни
+я.
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 707--708
+\TU/NotoSerif(3)/m/n/8 Убеж-де-ние мож-но ис-поль-зо-в
+ать
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 709--710
+\TU/NotoSerif(3)/m/n/8 ты оч-ка-ми на-вы-ков. На-вык от-
+ []
+
+
+Underfull \hbox (badness 6927) in paragraph at lines 709--710
+\TU/NotoSerif(3)/m/n/8 управ-лять опре-де-лен-ным ви-д
+ом
+ []
+
+File: img/bottom.png Graphic file (type png)
+<use img/bottom.png>
+Package luatex.def Info: img/bottom.png  used on input line 712.
+(luatex.def)             Requested size: 478.00632pt x 70.7607pt.
+File: img/top.png Graphic file (type png)
+<use img/top.png>
+Package luatex.def Info: img/top.png  used on input line 716.
+(luatex.def)             Requested size: 478.00632pt x 68.7459pt.
+LaTeX Info: Redefining \rmfamily on input line 717.
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+[]\TU/NotoSerif(3)/bx/n/8 Пси-хо-ана-лиз: \TU/NotoSerif(3)/m/n/8 о
+пи-сы-ва-ет вла-де-
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 719--720
+\TU/NotoSerif(3)/m/n/8 о-наль-ной те-ра-пии. Пси-хо-ана-
+лиз
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+\TU/NotoSerif(3)/m/n/8 ся от неопре-де-лен-но-го безу-
+мия
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+\TU/NotoSerif(3)/m/n/8 хо-нев-ро-ло-ги-че-ском учре-жд
+е-нии,
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 719--720
+\TU/NotoSerif(3)/m/n/8 мо-жет поз-во-лить пер-со-на-жу 
+на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--722
+[]\TU/NotoSerif(3)/bx/n/8 Пси-хо-ло-гия: \TU/NotoSerif(3)/m/n/8 эм-
+па-тия, ко-то-рая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--726
+\TU/NotoSerif(3)/m/n/8 об-ра-зо-ван-ные ученые-любите
+ли.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--726
+\TU/NotoSerif(3)/m/n/8 Мас-штаб зна-ний опре-де-ля-е-и-
+ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--726
+\TU/NotoSerif(3)/m/n/8 для по-лу-че-ния спе-ци-а-ли-за-
+ции,
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 725--726
+\TU/NotoSerif(3)/m/n/8 нет кон-крет-ной спе-ци-а-ли-за-
+ции,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--728
+\TU/NotoSerif(3)/m/n/8 или за-мас-ки-ро-вать объ-ект и
+ли
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 727--728
+\TU/NotoSerif(3)/m/n/8 дру-ги-ми под-хо-дя-щи-ми ма-те-
+ри-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--734
+[]\TU/NotoSerif(3)/bx/n/8 Вы-жи-ва-ние: \TU/NotoSerif(3)/m/n/8 зна-
+ния, необ-хо-ди-
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 733--734
+\TU/NotoSerif(3)/m/n/8 нет кон-крет-ной спе-ци-а-ли-за-
+ции,
+ []
+
+
+Underfull \hbox (badness 6808) in paragraph at lines 739--740
+\TU/NotoSerif(3)/m/n/8 за че-ло-ве-ком, транс-пор-том и
+ли
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 739--740
+\TU/NotoSerif(3)/m/n/8 слож-ность: вре-мя, про-шед-шее 
+с
+ []
+
+File: img/bottom.png Graphic file (type png)
+<use img/bottom.png>
+Package luatex.def Info: img/bottom.png  used on input line 741.
+(luatex.def)             Requested size: 478.00632pt x 70.7607pt.
+
+Package tcolorbox Warning: The upper box part has become overfull on input line 
+742.
+
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 625.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
 [14]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 625.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
  [15]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 625.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
  [16]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package luatex.def Info: img/paper.jpg  used on input line 625.
+Package luatex.def Info: img/paper.jpg  used on input line 744.
 (luatex.def)             Requested size: 614.33614pt x 794.966pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package luatex.def Info: img/footerscroll.pdf  used on input line 625.
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
 (luatex.def)             Requested size: 614.33043pt x 43.36565pt.
- [17] (./example.aux)
+ [17]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
+(luatex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [18]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
+(luatex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [19]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
+(luatex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [20]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
+(luatex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [21]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
+(luatex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [22]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
+(luatex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [23]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
+(luatex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [24]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
+(luatex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [25]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package luatex.def Info: img/paper.jpg  used on input line 744.
+(luatex.def)             Requested size: 614.33614pt x 794.966pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package luatex.def Info: img/footerscroll.pdf  used on input line 744.
+(luatex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [26] (./example.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 33675 strings out of 494291
- 156470,1144653 words of node,token memory allocated
+ 34218 strings out of 494291
+ 382047,1144653 words of node,token memory allocated
  515 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 dir, 2 glue, 3 kern, 1 glyph, 17 attribute, 60 gl
 ue_spec, 7 attribute_list, 2 write nodes
-   avail lists: 1:4,2:2925,3:520,4:34,5:590,6:81,7:14622,8:3,9:656,10:22,11:2103
-
- 35447 multiletter control sequences out of 65536+600000
- 96 fonts using 34191583 bytes
- 66i,17n,98p,2056b,1002s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:4,2:7769,3:1683,4:34,5:1381,6:153,7:36286,8:4,9:1596,10:22,11:
+5490
+ 35532 multiletter control sequences out of 65536+600000
+ 96 fonts using 34194207 bytes
+ 66i,17n,98p,2056b,1097s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2019/texmf-dist/fonts/truetype/google/noto/NotoSerif-Bold.tt
 f></usr/local/texlive/2019/texmf-dist/fonts/truetype/google/noto/NotoSerif-Regul
 ar.ttf></usr/local/texlive/2019/texmf-dist/fonts/truetype/google/noto/NotoSerif-
 Italic.ttf></home/hello/.local/share/fonts/Oswald-Regular.ttf></usr/local/texliv
 e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on example.pdf (17 pages, 5580097 bytes).
+Output written on example.pdf (26 pages, 5603964 bytes).
 
-PDF statistics: 98 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+PDF statistics: 126 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
